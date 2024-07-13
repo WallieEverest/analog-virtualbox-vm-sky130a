@@ -86,17 +86,17 @@ build {
     }
     scripts = [
       "scripts/install_virtualbox_tools.sh",
-      "scripts/install_pdk.sh",
-      "scripts/install_openlane.sh",
-      "scripts/install_verilator.sh",
-      "scripts/install_klayout.sh",
-      "scripts/install_magic.sh",
-      "scripts/install_netgen.sh",
-      "scripts/install_ngspice.sh",
-      "scripts/install_xschem.sh",
-      "scripts/install_gaw.sh",
-      "scripts/terminal_icon.sh",
-      "scripts/set_wallpaper.sh",
+    //  "scripts/install_pdk.sh",
+    //  "scripts/install_openlane.sh",
+    //  "scripts/install_verilator.sh",
+    //  "scripts/install_klayout.sh",
+    //  "scripts/install_magic.sh",
+    //  "scripts/install_netgen.sh",
+    //  "scripts/install_ngspice.sh",
+    //  "scripts/install_xschem.sh",
+    //  "scripts/install_gaw.sh",
+    //  "scripts/terminal_icon.sh",
+    //  "scripts/set_wallpaper.sh",
     ]
   }
 }
